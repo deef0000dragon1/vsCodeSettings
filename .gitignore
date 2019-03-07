@@ -1,0 +1,7 @@
+#ignore everything first
+*
+
+
+#then disignore
+!.gitignore
+!settings.json
