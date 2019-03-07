@@ -5,3 +5,4 @@
 #then disignore
 !.gitignore
 !settings.json
+!extensions.sh
