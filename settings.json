@@ -52,5 +52,8 @@
 		"rgba(255,0,246,.3)"
 	],
 	"color-highlight.markRuler": true,
-	"color-highlight.matchWords": true
+	"color-highlight.matchWords": true,
+	"code-runner.saveAllFilesBeforeRun": true,
+	"code-runner.saveFileBeforeRun": true,
+	"liveServer.settings.donotShowInfoMsg": true,
 }
